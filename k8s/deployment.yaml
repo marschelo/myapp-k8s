@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: msolerm/myapp:1.0.1
+        image: msolerm/myapp:1.0.2
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
